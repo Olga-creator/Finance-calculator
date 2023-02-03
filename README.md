@@ -1,1 +1,1 @@
-# Finance-calculator
+# Finance calculator
